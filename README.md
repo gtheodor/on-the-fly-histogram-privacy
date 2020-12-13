@@ -1,4 +1,4 @@
-# on-the-fly-histogram-privacy
+# On-the-fly Privacy for Location Histograms
 This repository contains code for the following paper. Please cite the paper if you find the code useful.
 
    > "On-the-fly Privacy for Location Histograms," 
